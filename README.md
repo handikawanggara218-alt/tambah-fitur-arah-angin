@@ -68,13 +68,17 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal Anda
 
 *Catatan: Ganti placeholder di bawah ini dengan file gambar asli hasil screenshot dari HP fisik Anda sebelum melakukan push.*
 
-| 1. Kondisi Kosong (Hint) | 2. Kondisi Loading |
-| :---: | :---: |
-| ![Kosong](./screenshots/kosong.png) | ![Loading](./screenshots/loading.png) |
+| 1. Kondisi Kosong (Hint) 
+| ![Kosong]([./screenshots/kosong.png](https://www.image2url.com/r2/default/images/1780641295247-f7b65e15-a33f-476e-af0f-05b5dc111d70.jpeg)) |
 
-| 3. Kondisi Sukses (Data Muncul)| 4. Kondisi Error / Tidak Ditemukan |
-| :---: | :---: |
-| ![Sukses](./screenshots/sukses.png) | ![Error](./screenshots/error.png) |
+| 2. Kondisi Loading |
+| ![Loading]([./screenshots/loading.png](https://www.image2url.com/r2/default/images/1780641469779-f46f10e0-bd8b-4140-94c9-16d96c344b65.jpeg)) |
+
+| 3. Kondisi Sukses (Data Muncul)|
+| ![Sukses](https://www.image2url.com/r2/default/images/1780641519263-be08f840-25c4-41a8-be4b-9502150eb2e0.jpeg)) |
+
+| 4. Kondisi Error / Tidak Ditemukan |
+| ![Error](https://www.image2url.com/r2/default/images/1780641563377-18165e4a-78bf-4c36-88ea-06dfe71aca28.jpeg)) |
 
 ---
 
